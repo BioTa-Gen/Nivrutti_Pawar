@@ -4,7 +4,7 @@
         "marathi": "निवृत्ती पवार"
     },
     "JobProfile": {
-        "english": "Software Engineer At",
+        "english": "Software Engineer",
         "marathi": "येथे सॉफ्टवेअर इंजिनियर"
     },
     "Address": {
@@ -157,8 +157,8 @@
         "GalleryPhoto": {
             "Photo1": "assets/G(1).jpg",
             "Photo2": "assets/G(2).jpg",
-            "Photo3": "assets/G(3).jpg",
-            "Photo4": "assets/G(4).jpg",
+            "Photo3": "assets/G(4).jpg",
+            "Photo4": "assets/G(3).jpg",
             "Photo5": "assets/G(5).jpg",
             "Photo6": "assets/G(6).jpg"
         }
